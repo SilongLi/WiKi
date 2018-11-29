@@ -5,9 +5,14 @@
 ## 博客
 ### iOS开发
 - [iOS 12.1系统tabBar按钮偏移错位问题](https://www.jianshu.com/p/32f7fe7fccee)
-
-
-
+- [优雅的解决导航栏隐藏问题](https://www.jianshu.com/p/a03cee3aeba6)
+- [APP性能检测方案汇总(一)](https://www.jianshu.com/p/95df83780c8f)
+- [搭建本地Code Push Server实现高效热更新](https://www.jianshu.com/p/417a165ca9d7)
+- [移动端UI自动化测试--Appium和Cucumber的完美结合](https://www.jianshu.com/p/c3db8e5dc306)
+- [React Native--概述及与Weex和Native开发的对比](https://www.jianshu.com/p/613c1e8611e9)
+- [弱网时，酷炫的占位动画实现思路详解](https://www.jianshu.com/p/572de4bce5c6)
+- [转让App的最新图文详解](https://www.jianshu.com/p/a0edc862579e)
+- [如何在UICollectionView reloadData后找到某个cell](https://www.jianshu.com/p/0f922b38a0a0如何在UICollectionView reloadData后找到某个cell)
 
 
 ## [开发实用工具](https://github.com/SilongLi/Wiki/blob/master/开始实用工具.md)
