@@ -12,7 +12,7 @@
 - [React Native--概述及与Weex和Native开发的对比](https://www.jianshu.com/p/613c1e8611e9)
 - [弱网时，酷炫的占位动画实现思路详解](https://www.jianshu.com/p/572de4bce5c6)
 - [转让App的最新图文详解](https://www.jianshu.com/p/a0edc862579e)
-- [如何在UICollectionView reloadData后找到某个cell](https://www.jianshu.com/p/0f922b38a0a0如何在UICollectionView reloadData后找到某个cell)
+- [如何在UICollectionView reloadData后找到某个cell](https://www.jianshu.com/p/0f922b38a0a0)
 
 
 ## [开发实用工具](https://github.com/SilongLi/Wiki/blob/master/开始实用工具.md)
