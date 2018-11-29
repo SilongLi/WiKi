@@ -2,6 +2,14 @@
 这里记录着自己开发过程中的一些历程和心得，勉励自己，继续前行。
 
 
+## 博客
+### iOS开发
+- [iOS 12.1系统tabBar按钮偏移错位问题](https://www.jianshu.com/p/32f7fe7fccee)
+
+
+
+
+
 ## [开发实用工具](https://github.com/SilongLi/Wiki/blob/master/开始实用工具.md)
 >
 > 这里主要记录开发中使用到的一些实用的工具和技巧:
