@@ -8,6 +8,7 @@
 - [APP性能检测方案汇总(一)](https://www.jianshu.com/p/95df83780c8f)
 - [搭建本地Code Push Server实现高效热更新](https://www.jianshu.com/p/417a165ca9d7)
 - [移动端UI自动化测试--Appium和Cucumber的完美结合](https://www.jianshu.com/p/c3db8e5dc306)
+- [开发相关的实用小技巧](https://www.jianshu.com/p/65905d983be3)
 - [React Native--概述及与Weex和Native开发的对比](https://www.jianshu.com/p/613c1e8611e9)
 - [弱网时，酷炫的占位动画实现思路详解](https://www.jianshu.com/p/572de4bce5c6)
 - [转让App的最新图文详解](https://www.jianshu.com/p/a0edc862579e)
