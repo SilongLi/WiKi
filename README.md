@@ -15,7 +15,7 @@
 - [转让App的最新图文详解](https://www.jianshu.com/p/a0edc862579e)
 - [如何在UICollectionView reloadData后找到某个cell](https://www.jianshu.com/p/0f922b38a0a0)
 
-## 工具类
+## 组件
 - [一个好用的金融类游标卡尺](https://github.com/SilongLi/ScrollRulerView)
 - [APP启动页](https://github.com/SilongLi/GuidePageView)
 
