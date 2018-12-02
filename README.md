@@ -17,6 +17,7 @@
 
 ## 工具类
 - [一个好用的金融类游标卡尺](https://github.com/SilongLi/ScrollRulerView)
+- [APP启动页](https://github.com/SilongLi/GuidePageView)
 
 
 ## [开发实用工具](https://github.com/SilongLi/Wiki/blob/master/开始实用工具.md)
