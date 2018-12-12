@@ -22,6 +22,7 @@
 - [一行代码搞定APP启动广告页](https://github.com/SilongLi/AdvertisementView)
 - [仿keynote取色器](https://github.com/SilongLi/ColorPickerView)
 - [GIF处理](https://github.com/SilongLi/GIFDemo)
+- [MVVM-R架构之美](https://github.com/SilongLi/MVVM-RFramework)
 
 
 ## [开发实用工具](https://github.com/SilongLi/Wiki/blob/master/开始实用工具.md)
