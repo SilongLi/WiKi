@@ -3,6 +3,7 @@
 
 
 ## 博客
+- [MVVM-R架构之美](https://www.jianshu.com/p/c36a0a364bbc)
 - [iOS 12.1系统tabBar按钮偏移错位问题](https://www.jianshu.com/p/32f7fe7fccee)
 - [优雅的解决导航栏隐藏问题](https://www.jianshu.com/p/a03cee3aeba6)
 - [APP性能检测方案汇总(一)](https://www.jianshu.com/p/95df83780c8f)
@@ -18,12 +19,12 @@
 - [iOS 处理浮点类型精度丢失问题](https://www.jianshu.com/p/3470ec0bb1ac)
 
 ## 组件
-- [一个好用的金融类游标卡尺](https://github.com/SilongLi/ScrollRulerView)
+- [MVVM-R架构之美](https://github.com/SilongLi/MVVM-RFramework)
 - [APP启动页](https://github.com/SilongLi/GuidePageView)
 - [一行代码搞定APP启动广告页](https://github.com/SilongLi/AdvertisementView)
 - [仿keynote取色器](https://github.com/SilongLi/ColorPickerView)
 - [GIF处理](https://github.com/SilongLi/GIFDemo)
-- [MVVM-R架构之美](https://github.com/SilongLi/MVVM-RFramework)
+- [一个好用的金融类游标卡尺](https://github.com/SilongLi/ScrollRulerView)
 
 
 ## [开发实用工具](https://github.com/SilongLi/Wiki/blob/master/开始实用工具.md)
