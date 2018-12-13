@@ -2,7 +2,7 @@
 这里记录着自己开发过程中的一些历程和心得，勉励自己，继续前行。
 
 
-## 博客
+## [博客](https://www.jianshu.com/u/b534ce5f8fae)
 - [MVVM-R架构之美](https://www.jianshu.com/p/c36a0a364bbc)
 - [iOS 12.1系统tabBar按钮偏移错位问题](https://www.jianshu.com/p/32f7fe7fccee)
 - [优雅的解决导航栏隐藏问题](https://www.jianshu.com/p/a03cee3aeba6)
@@ -18,7 +18,7 @@
 - [使用导航控制器时，如何优雅的回到指定的界面](https://www.jianshu.com/p/bb7d8b6a9f8f)
 - [iOS 处理浮点类型精度丢失问题](https://www.jianshu.com/p/3470ec0bb1ac)
 
-## 组件
+## [组件](https://github.com/SilongLi)
 - [MVVM-R架构之美](https://github.com/SilongLi/MVVM-RFramework)
 - [APP启动页](https://github.com/SilongLi/GuidePageView)
 - [一行代码搞定APP启动广告页](https://github.com/SilongLi/AdvertisementView)
