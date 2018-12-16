@@ -17,6 +17,7 @@
 - [如何在UICollectionView reloadData后找到某个cell](https://www.jianshu.com/p/0f922b38a0a0)
 - [使用导航控制器时，如何优雅的回到指定的界面](https://www.jianshu.com/p/bb7d8b6a9f8f)
 - [iOS 处理浮点类型精度丢失问题](https://www.jianshu.com/p/3470ec0bb1ac)
+- [本地购物车 + CoreData + MagicalRecord](https://www.jianshu.com/p/a24f6dad4a2c)
 
 ## [组件](https://github.com/SilongLi)
 - [MVVM-R架构之美](https://github.com/SilongLi/MVVM-RFramework)
