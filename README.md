@@ -19,6 +19,7 @@
 - [iOS 处理浮点类型精度丢失问题](https://www.jianshu.com/p/3470ec0bb1ac)
 - [本地购物车 + CoreData + MagicalRecord](https://www.jianshu.com/p/a24f6dad4a2c)
 - [2018苹果最新规范及适配整理](https://www.jianshu.com/p/1a14af810681)
+- [保存图片到自定义相册文件夹中，实现处理相册被用户误删的情况](https://www.jianshu.com/p/2119f17fb334)
 
 ## [组件](https://github.com/SilongLi)
 - [MVVM-R架构之美](https://github.com/SilongLi/MVVM-RFramework)
