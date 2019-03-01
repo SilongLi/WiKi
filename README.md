@@ -47,6 +47,7 @@
 > 主要记录自己学习和工作中，看过的一些认为比较有用的博客和文字。
 >
  
+- CocoaPods 1.7.0 Beta！
 - DeveLoper Document
 - Objective-C与Swift相关
 - React Native相关
